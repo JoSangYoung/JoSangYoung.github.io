@@ -1,13 +1,31 @@
+# jekyll
+.jekyll-metadata
+_site
+.sass-cache
+.jekyll-cache
 
-.DS_Store
-/.idea/inspectionProfiles/profiles_settings.xml
-/.idea/.gitignore
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/the-mvm.github.io.iml
-/.idea/inspectionProfiles/Project_Default.xml
-/.idea/vcs.xml
-/.vscode/settings.json
-/.vscode/
-/.idea/
-.liquidrc
+
+# bundler
+*.gem
+Gemfile.lock
+
+
+# python
+*.whl
+
+
+# npm
+node_modules
+package-lock.json
+
+
+# _sass
+_sass/@primer/css/**/*.md
+
+
+# lighthouse
+*.report.html
+
+
+# action
+action.changelog.md
