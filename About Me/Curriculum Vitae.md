@@ -76,7 +76,7 @@ Assistant researcher
 - Collect EEG signals via Emotiv Flex
 - Train predictor of memorability using braindecode framework
 
-**Maintenance supporting system for bicycle road with deep learning approach**                                                                        <div style="text-align:right">Apr/2019 - Jun/2019</div>
+**Maintenance supporting system for bicycle road with deep learning approach**
 
 - Project manager
 - Collect image data for training real-time object detector model (YOLO, You Look Only Once)
@@ -120,7 +120,7 @@ Assistant researcher
 
 - Citation
 
-**Undergraduate Academic Competition from The Korean Institute of Information Technology**                                                                <div style="text-align:right">2018</div>
+**Undergraduate Academic Competition from The Korean Institute of Information Technology**
 
 - Second Prize
 
