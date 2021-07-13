@@ -24,11 +24,11 @@ Human Memory
 
 **EDUCATION**
 
-**Master of Artificial Intelligence**                                   <div style="text-align:right">2021 – Present</div>
+**Master of Artificial Intelligence**
 
 Ulsan National Institute of Science Technology
 
-**Bachelor of Science in Computer Engineering**           <div style="text-align:right">2014 – 2020</div>
+**Bachelor of Science in Computer Engineering**
 
 Kumoh National Institute of Technology
 
@@ -38,19 +38,19 @@ GPA : 4.27 / 4.5
 
 **Work** **Experience**
 
-**Machine Intelligence and Information Learning Lab** <div style="text-align:right">Mar/2021  - Present</div>
+**Machine Intelligence and Information Learning Lab**
 
 Ulsan National Institute of Science Technology
 
 Master course
 
-**Center for functional connectomics**                            <div style="text-align:right">May/2020 - Sep/2020</div>
+**Center for functional connectomics**
 
 Korea Institute of Science and Technology
 
 Intern researcher
 
-**Interactive Lab**                                                              <div style="text-align:right">Jun/2017 – Feb/2021</div>
+**Interactive Lab**
 
 Kumoh National Institute of Technology
 
@@ -60,16 +60,16 @@ Assistant researcher
 
 **Experience**
 
-**Domain Generalization on meta-learning**                   <div style="text-align:right">Mar/2021 – Present</div>
+**Domain Generalization on meta-learning**
 
 - On progress
 
-**The ratio of pre-synaptic and post-synaptic**               <div style="text-align:right">May/2020 – Sep/2020</div>
+**The ratio of pre-synaptic and post-synaptic**
 
 - Image processing
 - Implement program
 
-**Predicting visual memorability from EEG signal**         <div style="text-align:right">Nov/2018 - Feb/2020</div>
+**Predicting visual memorability from EEG signal**
 
 - Recruit subjects for memorability experiment
 - Design visual experimental paradigm to collect data from subjects
@@ -83,7 +83,7 @@ Assistant researcher
 - Train deep learning model after modifying the structure
 - Implement real-time maintenance supporting system for bicycle road with a smartphone application and web server
 
-**Generating and recommending fashion item**              <div style="text-align:right">Apr/2018 – Dec/2018</div>
+**Generating and recommending fashion item**
 
 - Project manager
 - Collect fashion item images using web crawling
@@ -92,7 +92,7 @@ Assistant researcher
 - Construct Web server for recommending images
 - Implement the interaction of the trained model with server
 
-**Patient care system using IoT sensor**                           <div style="text-align:right">Jun/2017 – Nov/2017</div>
+**Patient care system using IoT sensor**
 
 - Produce care-bot appearance using 3D printer
 - Construct a Web server to notify information to the administrator
@@ -116,7 +116,7 @@ Assistant researcher
 
 **and Awards**
 
-**Citation from member of congress**                                              <div style="text-align:right">2020</div>
+**Citation from member of congress**
 
 - Citation
 
@@ -124,11 +124,11 @@ Assistant researcher
 
 - Second Prize
 
-**The 2nd IoT Innovation Challenge competition**                           <div style="text-align:right">2017</div>
+**The 2nd IoT Innovation Challenge competition**
 
 - Special Prize
 
-**Korea Software Congress 2017**                                                       <div style="text-align:right">2017</div>
+**Korea Software Congress 2017**
 
 - Second Prize
 
