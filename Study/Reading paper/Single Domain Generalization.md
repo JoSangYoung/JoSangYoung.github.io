@@ -10,7 +10,7 @@ multiple training domain을 통해 이 이슈를 덜어냈다. 그렇다면 어�
 
 소스 도메인과 타겟 도메인의 불일치 (a.k.a domain or covariate variant)는 domain adpatation 과 domain generalization에서 연구되어 왔다. 저자들은 이 연구들과는 다른 새로운 패러다임을 제안하였다. 참고. Figure 1.
 
-![Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled.png](Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled.png)
+![Single Domain Generalization/Untitled.png](Single Domain Generalization/Untitled.png)
 
 Adversarial domain augmentation
 
@@ -56,7 +56,7 @@ MAML-based approach to solve domain generalization, Adaptive regularizer through
 
 핵심 아이디어는 out-of-distribution perturbation에 저항하는 robust model을 학습시킨다는 것이다.
 
-![Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%201.png](Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%201.png)
+![Single Domain Generalization/Untitled%201.png](Single Domain Generalization/Untitled%201.png)
 
 Equation (1)
 
@@ -68,13 +68,13 @@ Cross entropy loss 를 사용하여 classification 문제에 집중해본다.
 
 rho는 어떻게 정하는가?
 
-![Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%202.png](Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%202.png)
+![Single Domain Generalization/Untitled%202.png](Single Domain Generalization/Untitled%202.png)
 
 Equation (2)
 
 Worst-case formulation (1)에 따라 Meta-Learning based Adversarial Domain Augmentation (M-ADA) 라는 새로운 방법을 제시한다. "fictitious" yest "challenging" domains를 adversarial training을 통해 source doamin을 augment 하기 위해 생성한다. Task model은 Wasserstein Auto-Encoder (WAE, relaxes the worst-case constraint 역할)의 도움을 받아 domain augmentations을 학습한다. Task model과 WAE의 연결을 구성하고 또, domain augmentation procedure 도 함께 구성한다.
 
-![Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%203.png](Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%203.png)
+![Single Domain Generalization/Untitled%203.png](Single Domain Generalization/Untitled%203.png)
 
 중간 정리.
 
@@ -88,7 +88,7 @@ Goal **:** to create multiple augmented domains from the source domain
 
 augmented domains의 발산을 방지하기 위해, the worst-case in equation (1) 역시 만족되어야한다.
 
-![Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%204.png](Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%204.png)
+![Single Domain Generalization/Untitled%204.png](Single Domain Generalization/Untitled%204.png)
 
 Loss of Adversarial Domain Augmentation = Loss of classification - loss of constraint + loss of relaxation.
 
@@ -98,17 +98,17 @@ $L_{const}$ : worst-case guarantee defined in Eq. (1)
 
 $L_{relax}$ : it guarantees large domain transportation in Eq. (7)
 
-![Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%205.png](Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%205.png)
+![Single Domain Generalization/Untitled%205.png](Single Domain Generalization/Untitled%205.png)
 
 Adversarial samples $X^+$ in the augmented domain $S^+$
 
-![Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%206.png](Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%206.png)
+![Single Domain Generalization/Untitled%206.png](Single Domain Generalization/Untitled%206.png)
 
 $L_{const}$
 
 Wasserstein 거리로 측정된 소스 도메인 외부의 일반화 능력을 제어한다.
 
-![Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%207.png](Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%207.png)
+![Single Domain Generalization/Untitled%207.png](Single Domain Generalization/Untitled%207.png)
 
 1{$\cdot$} is the 0-1 indicator function, if class label of $X^+$ is different from X, Loss will be $\infin$
 
@@ -116,7 +116,7 @@ $L_{relax}$
 
 to relax the semantic consistency constraint and create large domain transportation
 
-![Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%208.png](Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%208.png)
+![Single Domain Generalization/Untitled%208.png](Single Domain Generalization/Untitled%208.png)
 
 여기까지의 이해와 의문점.
 
@@ -145,9 +145,9 @@ Loss of relax
     - V : WAE parameterized by $\psi$
         - V consists of an encoder Q(e|x) and a decoder G(x|e)
 
-![Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%209.png](Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%209.png)
+![Single Domain Generalization/Untitled%209.png](Single Domain Generalization/Untitled%209.png)
 
-![Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%2010.png](Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%2010.png)
+![Single Domain Generalization/Untitled%2010.png](Single Domain Generalization/Untitled%2010.png)
 
 Meta-Learning Single Domain Generalization
 
@@ -163,7 +163,7 @@ Meta-Learning Single Domain Generalization
 
 8. meta train과 meta test에서 구한 loss들을 모두 합한 loss로 gradient descent를 진행한다. Eq.(9)
 
-![Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%2011.png](Single%20Domain%20Generalization%20a7803e0c71e34bdabc3b806876bb9bc8/Untitled%2011.png)
+![Single Domain Generalization/Untitled%2011.png](Single Domain Generalization/Untitled%2011.png)
 
 만약 이 문제에서 ADA 부분을 generation 하지 않고 이미 존재하는 dataset (e.g. PACS, DomainNet) 에서 가지고 와서 학습한다고 하면 Single Domain Generalization이 어떤 식으로 구성될까?
 
