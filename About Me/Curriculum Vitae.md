@@ -24,15 +24,11 @@ Human Memory
 
 **EDUCATION**
 
-**Master of Artificial Intelligence**                                   
-
-2021 – Present
+**Master of Artificial Intelligence**                                   <div style="text-align:right">2021 – Present</div>
 
 Ulsan National Institute of Science Technology
 
-**Bachelor of Science in Computer Engineering**           
-
-2014 – 2020
+**Bachelor of Science in Computer Engineering**           <div style="text-align:right">2014 – 2020</div>
 
 Kumoh National Institute of Technology
 
@@ -42,25 +38,19 @@ GPA : 4.27 / 4.5
 
 **Work** **Experience**
 
-**Machine Intelligence and Information Learning Lab** 
-
-Mar/2021  - Present
+**Machine Intelligence and Information Learning Lab** <div style="text-align:right">Mar/2021  - Present</div>
 
 Ulsan National Institute of Science Technology
 
 Master course
 
-**Center for functional connectomics**                            
-
-May/2020 - Sep/2020
+**Center for functional connectomics**                            <div style="text-align:right">May/2020 - Sep/2020</div>
 
 Korea Institute of Science and Technology
 
 Intern researcher
 
-**Interactive Lab**                                                              
-
-Jun/2017 – Feb/2021
+**Interactive Lab**                                                              <div style="text-align:right">Jun/2017 – Feb/2021</div>
 
 Kumoh National Institute of Technology
 
@@ -70,40 +60,30 @@ Assistant researcher
 
 **Experience**
 
-**Domain Generalization on meta-learning**                   
-
-Mar/2021 – Present
+**Domain Generalization on meta-learning**                   <div style="text-align:right">Mar/2021 – Present</div>
 
 - On progress
 
-**The ratio of pre-synaptic and post-synaptic**               
-
-May/2020 – Sep/2020
+**The ratio of pre-synaptic and post-synaptic**               <div style="text-align:right">May/2020 – Sep/2020</div>
 
 - Image processing
 - Implement program
 
-**Predicting visual memorability from EEG signal**         
-
-Nov/2018 - Feb/2020
+**Predicting visual memorability from EEG signal**         <div style="text-align:right">Nov/2018 - Feb/2020</div>
 
 - Recruit subjects for memorability experiment
 - Design visual experimental paradigm to collect data from subjects
 - Collect EEG signals via Emotiv Flex
 - Train predictor of memorability using braindecode framework
 
-**Maintenance supporting system for bicycle road with deep learning approach**                                                                        
-
-Apr/2019 - Jun/2019
+**Maintenance supporting system for bicycle road with deep learning approach**                                                                        <div style="text-align:right">Apr/2019 - Jun/2019</div>
 
 - Project manager
 - Collect image data for training real-time object detector model (YOLO, You Look Only Once)
 - Train deep learning model after modifying the structure
 - Implement real-time maintenance supporting system for bicycle road with a smartphone application and web server
 
-**Generating and recommending fashion item**              
-
-Apr/2018 – Dec/2018
+**Generating and recommending fashion item**              <div style="text-align:right">Apr/2018 – Dec/2018</div>
 
 - Project manager
 - Collect fashion item images using web crawling
@@ -112,9 +92,7 @@ Apr/2018 – Dec/2018
 - Construct Web server for recommending images
 - Implement the interaction of the trained model with server
 
-**Patient care system using IoT sensor**                           
-
-Jun/2017 – Nov/2017
+**Patient care system using IoT sensor**                           <div style="text-align:right">Jun/2017 – Nov/2017</div>
 
 - Produce care-bot appearance using 3D printer
 - Construct a Web server to notify information to the administrator
@@ -138,27 +116,19 @@ Jun/2017 – Nov/2017
 
 **and Awards**
 
-**Citation from member of congress**                                              
-
-2020
+**Citation from member of congress**                                              <div style="text-align:right">2020</div>
 
 - Citation
 
-**Undergraduate Academic Competition from The Korean Institute of Information Technology**                                                                
-
-2018
+**Undergraduate Academic Competition from The Korean Institute of Information Technology**                                                                <div style="text-align:right">2018</div>
 
 - Second Prize
 
-**The 2nd IoT Innovation Challenge competition**                           
-
-2017
+**The 2nd IoT Innovation Challenge competition**                           <div style="text-align:right">2017</div>
 
 - Special Prize
 
-**Korea Software Congress 2017**                                                       
-
-2017
+**Korea Software Congress 2017**                                                       <div style="text-align:right">2017</div>
 
 - Second Prize
 
