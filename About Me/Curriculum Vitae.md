@@ -1,7 +1,5 @@
 # Curriculum Vitae
 
-[Curriculum Vitae_SangYeongJo (1).doc](Curriculum%20Vitae%20c66b889dd53a4220bd1ab01dddc7c9bc/Curriculum_Vitae_SangYeongJo_(1).doc)
-
 ## SangYeong **Jo**
 
 ---
