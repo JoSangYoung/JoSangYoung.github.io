@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-## SangYeong **Jo**
+SangYeong **Jo**
 
 ---
 
@@ -24,11 +24,15 @@ Human Memory
 
 **EDUCATION**
 
-**Master of Artificial Intelligence**                                   2021 – Present
+**Master of Artificial Intelligence**                                   
+
+2021 – Present
 
 Ulsan National Institute of Science Technology
 
-**Bachelor of Science in Computer Engineering**           2014 – 2020
+**Bachelor of Science in Computer Engineering**           
+
+2014 – 2020
 
 Kumoh National Institute of Technology
 
@@ -38,19 +42,25 @@ GPA : 4.27 / 4.5
 
 **Work** **Experience**
 
-**Machine Intelligence and Information Learning Lab** Mar/2021  - Present
+**Machine Intelligence and Information Learning Lab** 
+
+Mar/2021  - Present
 
 Ulsan National Institute of Science Technology
 
 Master course
 
-**Center for functional connectomics**                            May/2020 - Sep/2020
+**Center for functional connectomics**                            
+
+May/2020 - Sep/2020
 
 Korea Institute of Science and Technology
 
 Intern researcher
 
-**Interactive Lab**                                                              Jun/2017 – Feb/2021
+**Interactive Lab**                                                              
+
+Jun/2017 – Feb/2021
 
 Kumoh National Institute of Technology
 
@@ -60,30 +70,40 @@ Assistant researcher
 
 **Experience**
 
-**Domain Generalization on meta-learning**                   Mar/2021 – Present
+**Domain Generalization on meta-learning**                   
+
+Mar/2021 – Present
 
 - On progress
 
-**The ratio of pre-synaptic and post-synaptic**               May/2020 – Sep/2020
+**The ratio of pre-synaptic and post-synaptic**               
+
+May/2020 – Sep/2020
 
 - Image processing
 - Implement program
 
-**Predicting visual memorability from EEG signal**         Nov/2018 - Feb/2020
+**Predicting visual memorability from EEG signal**         
+
+Nov/2018 - Feb/2020
 
 - Recruit subjects for memorability experiment
 - Design visual experimental paradigm to collect data from subjects
 - Collect EEG signals via Emotiv Flex
 - Train predictor of memorability using braindecode framework
 
-**Maintenance supporting system for bicycle road with deep learning approach**                                                                        Apr/2019 - Jun/2019
+**Maintenance supporting system for bicycle road with deep learning approach**                                                                        
+
+Apr/2019 - Jun/2019
 
 - Project manager
 - Collect image data for training real-time object detector model (YOLO, You Look Only Once)
 - Train deep learning model after modifying the structure
 - Implement real-time maintenance supporting system for bicycle road with a smartphone application and web server
 
-**Generating and recommending fashion item**              Apr/2018 – Dec/2018
+**Generating and recommending fashion item**              
+
+Apr/2018 – Dec/2018
 
 - Project manager
 - Collect fashion item images using web crawling
@@ -92,7 +112,9 @@ Assistant researcher
 - Construct Web server for recommending images
 - Implement the interaction of the trained model with server
 
-**Patient care system using IoT sensor**                           Jun/2017 – Nov/2017
+**Patient care system using IoT sensor**                           
+
+Jun/2017 – Nov/2017
 
 - Produce care-bot appearance using 3D printer
 - Construct a Web server to notify information to the administrator
@@ -116,19 +138,27 @@ Assistant researcher
 
 **and Awards**
 
-**Citation from member of congress**                                              2020
+**Citation from member of congress**                                              
+
+2020
 
 - Citation
 
-**Undergraduate Academic Competition from The Korean Institute of Information Technology**                                                                2018
+**Undergraduate Academic Competition from The Korean Institute of Information Technology**                                                                
+
+2018
 
 - Second Prize
 
-**The 2nd IoT Innovation Challenge competition**                           2017
+**The 2nd IoT Innovation Challenge competition**                           
+
+2017
 
 - Special Prize
 
-**Korea Software Congress 2017**                                                       2017
+**Korea Software Congress 2017**                                                       
+
+2017
 
 - Second Prize
 
