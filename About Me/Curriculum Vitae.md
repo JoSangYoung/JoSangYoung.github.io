@@ -193,5 +193,3 @@ Poster session at BEXCO, Busan, Republic of Korea
 Korean – Native language
 
 English – Proficient Level
-
-Japanese – Conversational level
