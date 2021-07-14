@@ -28,6 +28,8 @@ Human Memory
 
 Ulsan National Institute of Science Technology
 
+Present
+
 **Bachelor of Science in Computer Engineering**
 
 Kumoh National Institute of Technology
